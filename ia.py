@@ -1,3 +1,5 @@
+"""Painel de Consulta Desenvolvido por https://github.com/uwjota"""
+
 import openai
 
 chave_api = "SUA-CHAVE"
